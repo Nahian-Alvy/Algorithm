@@ -1,7 +1,7 @@
  # Algorithm 
  all problems solved with C++
  
-# *note some code has same name but different algorithm*
+# *note : some code has same name but different algorithm*
 
 
 
