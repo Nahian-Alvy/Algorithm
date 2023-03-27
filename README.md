@@ -11,3 +11,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahian-Alvy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+https://codeforces.com/submissions/luffyduffy
